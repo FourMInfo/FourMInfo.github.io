@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>0 - About FourM.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>524142382.26876301</real>
+				<key>version</key>
+				<dict>
+					<key>D0273CF5-0D5B-4234-95F4-83FADA91D841</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>Untitled.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>524142412.395926</real>
+				<key>lastModification</key>
+				<real>524142412.395926</real>
+				<key>version</key>
+				<dict>
+					<key>D0273CF5-0D5B-4234-95F4-83FADA91D841</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>0 - About FourM.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>D0273CF5-0D5B-4234-95F4-83FADA91D841</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
