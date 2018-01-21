@@ -16,16 +16,30 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>Untitled.md</key>
+			<key>1 - Functional Programming for the Un-Principled.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>524142412.395926</real>
 				<key>lastModification</key>
-				<real>524142412.395926</real>
+				<real>529943771.40824997</real>
 				<key>version</key>
 				<dict>
+					<key>3185866db94a0e18e9faaec5388eb2b3a9d57374c614aad3fa08ff970a21e25d</key>
+					<integer>7</integer>
+					<key>658FB81F-7F3F-4F28-A210-407A77DBA515</key>
+					<integer>4</integer>
+					<key>D0273CF5-0D5B-4234-95F4-83FADA91D841</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>2 - A New Definition of Success.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>529943690.85441601</real>
+				<key>version</key>
+				<dict>
+					<key>3185866db94a0e18e9faaec5388eb2b3a9d57374c614aad3fa08ff970a21e25d</key>
+					<integer>1</integer>
+					<key>658FB81F-7F3F-4F28-A210-407A77DBA515</key>
+					<integer>4</integer>
 					<key>D0273CF5-0D5B-4234-95F4-83FADA91D841</key>
 					<integer>3</integer>
 				</dict>
@@ -35,10 +49,13 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>0 - About FourM.md</string>
+			<string>1 - Functional Programming for the Un-Principled.md</string>
 		</array>
 		<array>
-			<string>Untitled.md</string>
+			<string>2 - A New Definition of Success.md</string>
+		</array>
+		<array>
+			<string>0 - About FourM.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -47,6 +64,10 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>3185866db94a0e18e9faaec5388eb2b3a9d57374c614aad3fa08ff970a21e25d</key>
+			<integer>8</integer>
+			<key>658FB81F-7F3F-4F28-A210-407A77DBA515</key>
+			<integer>5</integer>
 			<key>D0273CF5-0D5B-4234-95F4-83FADA91D841</key>
 			<integer>3</integer>
 		</dict>
