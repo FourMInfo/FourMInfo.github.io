@@ -6,17 +6,27 @@
     <description>Recent content in Rant on FourM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://fourm.info/tags/rant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Functional Programming for the Unprincipled</title>
-      <link>http://fourm.info/post/functional-programming-for-the-unprincipled/</link>
+      <title>Functional Programming for the Unprincipled Part 2</title>
+      <link>http://fourm.info/post/functional-programming-for-the-unprincipled-2/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://fourm.info/post/functional-programming-for-the-unprincipled-2/</guid>
+      <description>Frodo, Don’t Wear the Ring! The first part of this article discussed why FP in general, and pure FP in particular, is a critically important programming paradigm that all software developers should add to their tool chest. We concluded by asking why isn’t the whole programming world rushing to adopt functional programming? We answer that here.
+Some might object that if FP is so “useful” and “natural” as I claim, why does it have a reputation for being so difficult and why isn’t it used more widely?</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming for the Unprincipled Part 1</title>
+      <link>http://fourm.info/post/functional-programming-for-the-unprincipled-1/</link>
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://fourm.info/post/functional-programming-for-the-unprincipled/</guid>
+      <guid>http://fourm.info/post/functional-programming-for-the-unprincipled-1/</guid>
       <description>Anti-Intellectual Semantics Not too long ago, someone on Gitter called me (or, more precisely, something I said) “anti-intellectual.” I was more than a bit amused, and somewhat surprised and pleased by this accusation. The fact is, for much of my life I have been labeled by both friends and family, often in an accusatory tone, as being overly intellectual. The funniest part about this interchange is that it was part of a discussion on how prevalent is the use of functional programming (FP) by Scala programmers!</description>
     </item>
     

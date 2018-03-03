@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fourm.info/post/functional-programming-for-the-unprincipled/</loc>
+    <loc>http://fourm.info/post/functional-programming-for-the-unprincipled-2/</loc>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fourm.info/post/functional-programming-for-the-unprincipled-1/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,37 +24,37 @@
   
   <url>
     <loc>http://fourm.info/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fourm.info/tags/fp/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fourm.info/post/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fourm.info/tags/rant/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fourm.info/tags/scala/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fourm.info/tags/</loc>
-    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
