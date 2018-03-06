@@ -18,7 +18,7 @@
       
       <guid>http://fourm.info/post/functional-programming-for-the-unprincipled-2/</guid>
       <description>Frodo, Don’t Wear the Ring! The first part of this article discussed why FP in general, and pure FP in particular, is a critically important programming paradigm that all software developers should add to their tool chest. We concluded by asking why isn’t the whole programming world rushing to adopt functional programming? We answer that here.
-First, let’s eliminate the argument that it’s the mathematics aspect that scares people off.</description>
+This article essentially provides most of the reasons (excuses) why people, even people who claim to be sympathetic to FP, don’t want to do it.</description>
     </item>
     
     <item>
@@ -27,7 +27,9 @@ First, let’s eliminate the argument that it’s the mathematics aspect that sc
       <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://fourm.info/post/functional-programming-for-the-unprincipled-1/</guid>
-      <description>Anti-Intellectual Semantics Not too long ago, someone on Gitter called me (or, more precisely, something I said) “anti-intellectual.” I was more than a bit amused, and somewhat surprised and pleased by this accusation. The fact is, for much of my life I have been labeled by both friends and family, often in an accusatory tone, as being overly intellectual. The funniest part about this interchange is that it was part of a discussion on how prevalent is the use of functional programming (FP) by Scala programmers!</description>
+      <description>Anti-Intellectual Semantics Not too long ago, I read a Twitter comment by one of the luminaries behind the ScalaZ functional programming (FP) framework which said:
+ Scalaz 8&amp;rsquo;s competition is NOT Scalaz 7/Cats/etc. “No one’” uses these. The real competition is non-FP in Scala, i.e. 99% of the market.
+ Obviously this comment is hyperbole, but on the surface it makes no sense. Anyone with even the slightest acquaintance with Scala is aware that Martin Odersky created this language with the intention that it allow programmers to use both the OOP and FP paradigms.</description>
     </item>
     
     <item>
